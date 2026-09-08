@@ -1,0 +1,7 @@
+# Keep line endings stable across devices and avoid CRLF churn on plugin files.
+* text=auto eol=lf
+
+# Treat the compiled plugin bundle as binary (no diff/EOL rewriting).
+.obsidian/plugins/**/main.js binary
+.obsidian/plugins/**/*.css   text eol=lf
+*.sh                         text eol=lf
