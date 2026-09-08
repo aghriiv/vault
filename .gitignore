@@ -1,0 +1,21 @@
+# Obsidian workspace / UI state (per-device, noisy - don't sync)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# Obsidian caches / trash
+.obsidian/cache/
+.trash/
+
+# Obsidian Git plugin local data (may contain device-specific settings)
+# Comment the next line out if you WANT to sync plugin settings across devices
+# .obsidian/plugins/obsidian-git/data.json
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+desktop.ini
+*.tmp
+*.swp
+
+# OneDrive conflict artifacts
+*-<*'s conflicted copy *>*
