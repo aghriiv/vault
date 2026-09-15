@@ -45,3 +45,7 @@ WHERE status = "reading" OR status = "watching"
 - [[Reading Dashboard]]
 - [[Film Dashboard]]
 - [[99 - Templates/Daily Note|New daily note template]]
+
+## Knowledge notes
+- [[Terraform Modules (MOC)]] - Terraform modules, variables, types, outputs & locals
+
