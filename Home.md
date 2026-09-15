@@ -47,6 +47,7 @@ WHERE status = "reading" OR status = "watching"
 - [[99 - Templates/Daily Note|New daily note template]]
 
 ## Knowledge notes
+- [[Steph Ango Vault System (MOC)]] - how the Obsidian CEO runs his vault, adapted for you
 - [[Obsidian Cheat Sheet (MOC)]] - shortcuts, syntax, linking & good habits
 - [[Terraform Modules (MOC)]] - Terraform modules, variables, types, outputs & locals
 
