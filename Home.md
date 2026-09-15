@@ -47,5 +47,7 @@ WHERE status = "reading" OR status = "watching"
 - [[99 - Templates/Daily Note|New daily note template]]
 
 ## Knowledge notes
+- [[Obsidian Cheat Sheet (MOC)]] - shortcuts, syntax, linking & good habits
 - [[Terraform Modules (MOC)]] - Terraform modules, variables, types, outputs & locals
+
 
